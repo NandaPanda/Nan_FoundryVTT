@@ -1,0 +1,8 @@
+{"key":"midi-qol.MidiSoundSettings-backup","value":"{}","_id":"54fX28d7Q9Tv7Ukt"}
+{"key":"dnd5e.systemMigrationVersion","value":"\"1.6.1\"","_id":"6Y4yuJKfEjIHpin1"}
+{"key":"core.nue.shownTips","value":"true","_id":"9TTbs2Bf5z9bDPhH"}
+{"key":"core.permissions","value":"{\"ACTOR_CREATE\":[3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"DMG0ciEH5FDXNdkD"}
+{"key":"forien-quest-log.dbSchema","value":"2","_id":"ZXFLGvHbDRyqXYp3"}
+{"key":"core.time","value":"0","_id":"ehllZKjgLna38DOH"}
+{"key":"core.moduleConfiguration","value":"{\"combat-utility-belt\":true,\"forien-quest-log\":true,\"lib-wrapper\":true,\"midi-qol\":true,\"monks-tokenbar\":true,\"pings\":true,\"plutonium\":true,\"settings-extender\":true,\"socketlib\":true}","_id":"jVx4nmmY1OrB0sLj"}
+{"key":"combat-utility-belt.enhancedConditionsMigrationVersion","value":"\"1.8.4\"","_id":"tSY7MtWAqKW9PQRl"}
